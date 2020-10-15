@@ -1,0 +1,24 @@
+/******************TAG SELECTORS************/
+
+
+
+/*****************CLASS SELECTORS***********/
+.wrapper {
+
+}
+
+
+.intro {
+  height: 300px;
+  width: 250px;
+  display: inline-block;
+}
+
+.image {
+  height: 350px;
+  width: 500px;
+  display: inline-block;;
+}
+
+
+/******************ID SELECTORS*************/
